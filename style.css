@@ -1,0 +1,78 @@
+body {
+    background-image: url('./img/close-up-image-programer-working-his-desk-office.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+table th, td {
+    border: 1px solid ivory;
+    border-collapse: collapse;
+    color: white;
+    width: 200px;
+    margin: 0 auto;
+    margin-bottom: 10px;
+
+    
+}
+ th, td {
+    padding: 8px;
+    text-align: center;
+}
+form {
+    width: 300px;
+    margin: 0 auto;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+    color: aliceblue;
+    font-family: sans-serif;
+  }
+  
+  input, textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+  }
+
+  .cabeçalho-imagem {
+    padding: 10px;
+    margin: 0 auto;
+   justify-content: center;
+  }
+
+  nav {
+    background-color: #3333;
+    overflow: hidden;
+  }
+
+  nav ul {
+    list-style-type: none;
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  nav h1 {
+    list-style-type: none;
+    text-align: center;
+  }
+
+  nav li a {
+    display: block;
+    list-style-type: none;
+    color: aliceblue;
+    justify-content: center;
+    text-align: center;
+    text-decoration: none;
+    padding: 14px 16px;
+  }
+
+   nav li {
+    float: left;
+}
+  
+   nav li a:haver {
+    background-color: cadetblue;
+  }
